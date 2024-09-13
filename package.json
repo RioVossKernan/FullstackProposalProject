@@ -1,0 +1,29 @@
+{
+  "name": "bootcamp-24-notebook",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "firebase": "^10.13.1",
+    "next": "14.2.9",
+    "postcss": "^8.4.45",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.4",
+    "@types/react": "18.3.5",
+    "tailwindcss": "^3.4.11",
+    "typescript": "5.6.2"
+  }
+}
